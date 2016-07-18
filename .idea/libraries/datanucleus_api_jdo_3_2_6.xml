@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="datanucleus-api-jdo-3.2.6">
+    <CLASSES>
+      <root url="jar://C:/TempFolder/常用导入包和文件/spark-1.4.0-bin-hadoop2.6/lib/datanucleus-api-jdo-3.2.6.jar!/" />
+      <root url="jar://C:/TempFolder/常用导入包和文件/spark-1.4.0-bin-hadoop2.6/lib/datanucleus-core-3.2.10.jar!/" />
+      <root url="jar://C:/TempFolder/常用导入包和文件/spark-1.4.0-bin-hadoop2.6/lib/datanucleus-rdbms-3.2.9.jar!/" />
+      <root url="jar://C:/TempFolder/常用导入包和文件/spark-1.4.0-bin-hadoop2.6/lib/spark-1.4.0-yarn-shuffle.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

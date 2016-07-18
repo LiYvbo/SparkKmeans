@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/org/liyubo/spark/data/DataFormat.scala" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/org/liyubo/spark/dbops/MDDataStore.scala" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/org/liyubo/spark/dbops/MLDataStore.scala" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/org/liyubo/spark/dbops/SDataStore.scala" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/org/liyubo/spark/kmeans/ml/KMeansClustering.scala" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/org/liyubo/spark/kmeans/ml/KMeansJava.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/org/liyubo/spark/kmeans/ml/StreamingKMeans.scala" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/org/liyubo/spark/kmeans/optimistic/KMeansModified.scala" charset="UTF-8" />
+  </component>
+</project>
